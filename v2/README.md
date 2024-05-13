@@ -1,0 +1,1 @@
+This was the second version of Bad Word Blocker. I made this because v1 had gotten to the point where it was absolutely unmaintainable. I also wanted to learn a new language while I was at it, so I had decided to make it in TypeScript.
